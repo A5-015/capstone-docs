@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+ns-allinone-3.30.1/*
+ns-allinone-3.30.1.tar.bz2
+.DS_Store
